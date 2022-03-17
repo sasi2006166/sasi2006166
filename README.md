@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm CandiesJar</h1>
-<h3 align="center">A developer from Italy!</h3>
 
 - 🔭 I’m currently working on [FallbackServer](https://github.com/sasi2006166/Fallback-Server)
 
 - 🌱 I’m currently learning **Kotlin, Ruby**
 
-- 👯 I’m collaborating with **Nicecraftz | TelFrancesco**
+- 👯 I collaborate very often with NiceCraftz**
 
-- 👨‍💻 All of my projects are available at [candydevelopment.eu](candydevelopment.eu)
-
-- ⚡ Fun fact **I cannot cook without setting on fire the kitchen.**
+- ⚡ Fun fact **Last time my cat broke**
 
 
 <h3 align="left">Languages and Tools:</h3>
